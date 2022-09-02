@@ -4,7 +4,7 @@ The cake is a lie
 "The cake is a lie" is a meme from the game Portal.
 This example shows to check type matching, how not to use the isinstance function, and how to break the
 Liskov Substitution Principle.
-Don't get this too seriously.
+Don't take this too seriously.
 """
 
 
